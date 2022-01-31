@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Telegram Animatios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">The world\'s fastest messaging app.\n It is free and secure</string>
+
+
+    <string-array name="myColors">
+        <item>#FFBB86FC</item>
+        <item>#FF018786</item>
+        <item>#FFBB86FC</item>
+        <item>#FF3700B3</item>
+        <item>#FFFFFFFF</item>
+    </string-array>
+</resources>
